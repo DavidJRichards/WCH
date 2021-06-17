@@ -1,0 +1,12 @@
+*/html/*
+*~
+*.lst
+*.rel
+*.sym
+*.rst
+*.ihx
+*.lk
+*.map
+*.bin
+#sdcc
+CH559sdccUSBHost
